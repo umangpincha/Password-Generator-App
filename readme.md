@@ -1,4 +1,4 @@
-# JS ASSIGNMENT 1
+# JS PROJECT 3
 
 Password Generator Application
 
@@ -12,4 +12,4 @@ Technology Used:
 - JAVASCRIPT
 
 
-Live Demo: [Link]()
+Live Demo: [Link](https://password-gen-app.netlify.app/)
